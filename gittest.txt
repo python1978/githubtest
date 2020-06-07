@@ -1,0 +1,6 @@
+Practicing git and github
+
+Red
+Blue
+Green
+Black
